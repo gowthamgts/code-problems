@@ -30,8 +30,8 @@ This is my repo full of code problems that I have completed prior to or during a
 ## Tests
 
 ```sh
-npm install # Installs `mocha` and any other dependencies needed to run
-npm test    # Runs the testing scripts
+npm install   # Installs `mocha` and any other dependencies needed to run
+npm test      # Runs the testing scripts
 ```
 
 ## Contributing
